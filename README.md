@@ -1,2 +1,2 @@
-# project-management-client
+# project-management
 Simple Application for Project Management
